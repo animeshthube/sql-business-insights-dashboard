@@ -1,0 +1,45 @@
+product_id,product_name,category,unit_price,unit_cost
+PRD0001,Wireless Earbuds,Electronics,603.04,438.41
+PRD0002,4K Streaming Stick,Electronics,582.77,488.94
+PRD0003,Portable SSD 1TB,Electronics,395.02,314.04
+PRD0004,Smart Plug (4-Pack),Electronics,356.31,296.81
+PRD0005,Bluetooth Speaker,Electronics,145.0,114.84
+PRD0006,Phone Charger Cable,Electronics,163.15,129.05
+PRD0007,Gaming Mouse,Electronics,40.48,33.96
+PRD0008,Mechanical Keyboard,Electronics,468.76,372.66
+PRD0009,Tablet Stand,Electronics,345.4,260.78
+PRD0010,Robot Vacuum,Electronics,249.37,210.22
+PRD0011,Smart Doorbell,Electronics,514.44,397.66
+PRD0012,Noise-Cancelling Headphones,Electronics,436.2,335.44
+PRD0013,Air Fryer,Home & Kitchen,291.51,217.47
+PRD0014,Coffee Maker,Home & Kitchen,230.34,171.6
+PRD0015,Knife Set,Home & Kitchen,175.89,123.3
+PRD0016,Non-Stick Pan Set,Home & Kitchen,101.17,79.62
+PRD0017,Blender,Home & Kitchen,147.48,102.06
+PRD0018,Storage Bins (Set of 6),Home & Kitchen,181.28,132.88
+PRD0019,Bedding Set,Home & Kitchen,196.29,151.73
+PRD0020,Throw Pillows (Pair),Home & Kitchen,61.78,46.4
+PRD0021,Table Lamp,Home & Kitchen,246.6,190.13
+PRD0022,Men's Hoodie,Apparel,27.77,17.5
+PRD0023,Women's Leggings,Apparel,17.37,10.34
+PRD0024,Running Shoes,Apparel,91.05,44.25
+PRD0025,Denim Jacket,Apparel,57.65,33.21
+PRD0026,Graphic T-Shirt,Apparel,51.81,30.52
+PRD0027,Wool Beanie,Apparel,119.31,64.43
+PRD0028,Rain Jacket,Apparel,47.66,29.98
+PRD0029,Athletic Socks (6-Pack),Apparel,120.17,61.17
+PRD0030,Face Moisturizer,Beauty & Personal Care,75.43,49.56
+PRD0031,Shampoo & Conditioner Set,Beauty & Personal Care,51.37,27.48
+PRD0032,Electric Toothbrush,Beauty & Personal Care,55.38,29.35
+PRD0033,Vitamin C Serum,Beauty & Personal Care,19.22,10.07
+PRD0034,Hair Dryer,Beauty & Personal Care,9.75,6.09
+PRD0035,Body Wash,Beauty & Personal Care,6.99,3.87
+PRD0036,Sunscreen SPF50,Beauty & Personal Care,63.41,33.29
+PRD0037,Yoga Mat,Sports & Outdoors,323.55,222.28
+PRD0038,Adjustable Dumbbells,Sports & Outdoors,219.13,149.45
+PRD0039,Camping Chair,Sports & Outdoors,301.61,232.84
+PRD0040,Insulated Water Bottle,Sports & Outdoors,389.96,299.1
+PRD0041,Bike Helmet,Sports & Outdoors,83.78,67.78
+PRD0042,Resistance Band Set,Sports & Outdoors,190.66,151.0
+PRD0043,Hiking Backpack,Sports & Outdoors,373.96,256.91
+PRD0044,Tennis Racket,Sports & Outdoors,92.65,74.68
